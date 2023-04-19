@@ -1,4 +1,4 @@
-## Sample code from Cryptocurrency wallet application
+## Sample code from a cryptocurrency wallet application
 
 ## Author
 
