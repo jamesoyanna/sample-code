@@ -1,5 +1,3 @@
-/* eslint-disable max-len */
-/* eslint-disable jsx-a11y/label-has-associated-control */
 import React, { useState } from 'react';
 import { Table } from 'react-bootstrap';
 import Spinner from 'react-bootstrap/Spinner';

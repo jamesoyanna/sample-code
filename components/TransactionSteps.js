@@ -4,7 +4,6 @@ import { BiCheck } from 'react-icons/bi';
 
 // Destructure the "step" and "checkout" props
 const TransactionSteps = ({ step, checkout }) => {
-  // Destructure the "t" function from the useTranslation hook
   const { t } = useTranslation();
 
   // Render the transaction steps
